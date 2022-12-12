@@ -36,4 +36,8 @@ different features. Since I was mainly interested in the OSI variant this meant
 that simply looking for address offsets wasn't helpful and a detailed analysis
 and comparison against the source was required to make any changes to support
 the FPGA version. That analysis is here in the file basic_rom_disassembled.txt
+which I used to create some simple binary patches that are applied to the original
+ROM after it's loaded into the FPGA SPRAM.
 
+Note that the "mist64" site above can build the OSI BASIC ROM image from a nicely
+organized source tree and would likely be a better basis for adding features.
