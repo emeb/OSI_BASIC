@@ -11,8 +11,8 @@ sites, one of the better ones is here:
 A while back I had a personal project to recreate my first computer (an OSI
 Superboard II) in a low-end Lattice iCE40UP5k FPGA:
 
-[up5k_basic](https://github.com/emeb/up5k_basic)
-[up5k_vga](https://github.com/emeb/up5k_vga)
+* [up5k_basic](https://github.com/emeb/up5k_basic)
+* [up5k_vga](https://github.com/emeb/up5k_vga)
 
 I started with the combined ROM binary from here:
 
@@ -26,9 +26,9 @@ files collected at the "Daves's OSI page" site mentioned earlier. The complete
 source listings from which these ROMs were built are also available from several
 places:
 
-[pagetable](https://www.pagetable.com/?p=46)
-[mist64](https://github.com/mist64/msbasic)
-[brajeshwar](https://github.com/brajeshwar/Microsoft-BASIC-for-6502-Original-Source-Code-1978)
+* [pagetable](https://www.pagetable.com/?p=46)
+* [mist64](https://github.com/mist64/msbasic)
+* [brajeshwar](https://github.com/brajeshwar/Microsoft-BASIC-for-6502-Original-Source-Code-1978)
 
 Note that the original Microsoft source was common for many of their customers
 target computers, so there are built-time macros that customise the output for
